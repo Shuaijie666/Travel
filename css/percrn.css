@@ -1,0 +1,39 @@
+.percen{background-color: #EFEFF4;height: 920px;}
+/* F5F5F5 */
+.top-one{height: 65px;background-color: #ffff33;position: fixed;line-height: 80px;width: 100%;z-index: 100;}
+.top-one uni-icon{margin-left: 10px;}
+.top-one .right{margin-left: 70%;}
+.top-two{background-color:#ffff66;height: 150px;width: 100%;padding-top: 75px;}
+.top-two .welcome{font-size:24px;width: 80%;margin-left: 10%;font-weight: 700;}
+.top-two .wish{font-size:13px;width: 80%;margin-left: 10%;font-weight: 100;margin-top: 7px;}
+.top-two .le{border: 1px solid black;border-radius: 35px;height: 40px;width: 115px;float: left;
+background-color: black;margin-top: 10px;margin-left: 10%;color: #ffff66;line-height: 40px;padding-left: 35px;}
+.top-two .le .le-one{float: left;}
+.top-two .le .le-two{float: left;}
+.top-two .le .le-three{float: left;}
+.top-two .gif{width: 120px;height: 150px;float:right;margin-top: -55px;margin-right: 10px;background: url(../../static/img/dt.jpg) no-repeat -0px -0px;-webkit-background-size: 100% 110%;}
+/*  每日领蜂蜜  */
+.neck{width: 90%;height: 140upx;background-color: #FFFFFF;border-radius: 20upx;margin: 8upx auto;}
+.neck .neck-a{width: 17%;height: 140upx;float: left;background: url(../../static/img/mfw.png) no-repeat 8px 5px;-webkit-background-size: 80% 80%;}
+.neck .neck-b{width: 50%;height: 140upx;float: left;background: url(../../static/img/xs.png) no-repeat -0px 10px;-webkit-background-size: 25% 30%;}
+.neck .neck-b .neck-b-a{color: black;font-size: 15px;text-align: center;margin-left: 15px;margin-top: 10px;font-weight: 700;}
+.neck .neck-b .neck-b-b{color: black;font-size: 12px;margin-top:7px;}
+.neck .neck-c{width: 80px;height: 75upx;float: right;position: relative;top: 16px;right: 10px;border-radius: 30upx;background-color:#ffcc33;}
+.neck .neck-c .neck-c-a{color: black;font-size: 13px;text-align: center;line-height: 75upx;}
+/* 我的足迹 */
+.spoor{width: 90%;height: 160upx;background-color: #FFFFFF;border-radius: 20upx;margin: 12upx auto;}
+.spoor .spoor-left{width: 45%;height: 160upx;float: left;}
+.spoor .spoor-right{width: 51%;height: 160upx;float: right;border-radius: 20upx;background: url(../../static/img/zj.png) no-repeat 10px -12px;-webkit-background-size: 105% 116%;}
+.spoor .spoor-left .spoor-left-a{color: black;font-size: 16px;margin-top: 15px;font-weight: 700;padding-left: 10px;}
+.spoor .spoor-left .spoor-left-b{color: black;font-size: 13px;margin-top:7px;padding-left: 10px;width: 120%;}
+.spoor-right uni-icon{z-index: 10;position: relative;top: 25px;left: 130px;}
+/* 我的旅行 */
+.travel{width: 90%;height: 290upx;background-color: #FFFFFF;border-radius: 20upx;margin: 12upx auto;}
+.travel .travel-top{color: black;font-size: 16px;font-weight: 700;padding-left: 10px;padding-top: 10px;}
+.travel .travel-center{border-radius: 65upx;width: 43%;height: 55px;font-size: 18px;background-color:#ffcc33;margin: 8px auto;line-height: 50px;padding-left: 39px;}
+.travel .travel-center .travel-center-one{float: left;font-weight: 600;}
+.travel .travel-center .travel-center-two{float: left;margin-left: 10px;font-weight: 600;}
+.travel .travel-bottom{width: 47%;color: skyblue;font-size: 13px;margin: 15upx auto;position:relative ;left: 10px;}
+/* 更多服务 */
+.serve{width: 90%;height: 615upx;background-color: #FFFFFF;border-radius: 20upx;margin: 0 auto;}
+.serve .serve-top{font-weight: 700;font-size: 16px;padding-left: 10px;padding-top: 15px;padding-bottom: 15px;}
